@@ -61,8 +61,9 @@ Hey there! 👋 I'm **Wendy Yansah**, a passionate developer, creator, and probl
 ---
 <h3>📊 GitHub Stats</h3>
 
+<img align="right" src="https://media.giphy.com/media/1MTwXZ4XH4hm5c5cj9/giphy.gif?cid=ecf05e4784s2jnpzi7jnf7z0k5v9mgg4orklclsg7iol9zk1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400">
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarPandora&theme=radical&show_icons=true)](https://github.com/LunarPandora/github-readme-stats)
-<img align="right" src="https://media.giphy.com/media/1MTwXZ4XH4hm5c5cj9/giphy.gif?cid=ecf05e4784s2jnpzi7jnf7z0k5v9mgg4orklclsg7iol9zk1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="500">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarPandora&theme=radical)](https://github.com/LunarPandora/github-readme-stats)
 
