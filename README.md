@@ -5,6 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarPandora)](https://github.com/LunarPandora/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarPandora&repo=Blinky-Web)](https://github.com/LunarPandora/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarPandora&repo=ipsbi)](https://github.com/LunarPandora/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarPandora&repo=SumberRoda)](https://github.com/LunarPandora/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarPandora&repo=OnDoct)](https://github.com/LunarPandora/github-readme-stats)
+
 <!--
 **LunarPandora/LunarPandora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
