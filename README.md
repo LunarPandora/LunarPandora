@@ -28,7 +28,7 @@ Hey there! 👋 I'm **Wendy Yansah**, a passionate developer, creator, and probl
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JpYzhvbDZyZnBrdzFscGc1ZWtlb3p0aDdmeHB6bnljZXpjazhwYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QAfjBg6FDXnzBuqadA/giphy.gif" width="400">
 
 - 🇮🇩 Based in Indonesia
-- 🔭 I’m currently working on **IPSBI and Luminds!**
+- 🔭 I’m currently working on **Asteria**, my personal AI-Assistant with some anime flair! ✨
 - 🌱 I’m learning **Photography and Nuxt!**
 - 💡 Fun fact: **Coffee is my lifeline, and cream puff is the best dessert!**
 - 🎯 My goal: **To be happy and enjoy my craft.**
